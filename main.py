@@ -164,7 +164,7 @@ def check_edit(update: Update, context: CallbackContext):
             bot.delete_message(chat_id=chat_id, message_id=message_id)
             
             # Send a message notifying about the deletion
-            bot.send_message(chat_id=chat_id, text=f"{user_mention} 𝗷𝘂𝘀𝘁 𝗲𝗱𝗶𝘁 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲. 𝗜 𝗱𝗲𝗹𝗲𝘁𝗲 𝗵𝗶𝘀 𝗲𝗱𝗶𝘁𝗲𝗱 𝗺𝗲𝘀𝘀𝗮𝗴𝗲.", parse_mode='HTML')
+            bot.send_message(chat_id=chat_id, text=f"{user_mention} 𝗷𝘂𝘀𝘁 𝗲𝗱𝗶𝘁 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲. 𝗜 𝗱𝗲𝗹𝗲𝘁𝗲 𝗵𝗶𝘀 𝗲𝗱𝗶𝘁𝗲𝗱 𝗺𝗲𝘀𝘀𝗮𝗴𝗲🤡🤡.", parse_mode='HTML')
 
 
 def add_sudo(update: Update, context: CallbackContext):
@@ -391,7 +391,7 @@ def main():
                 f"{SUPPORT_ID}",
                 photo=PM_START_IMG,               
                 caption=f"""
-𝗛𝗲𝗹𝗹𝗼 𝗜 𝗮𝗺 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝗲𝗱𝗶𝘁𝗲𝗱 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀 ! 𝗜 𝗮𝗺 𝗖𝗿𝗲𝗮𝘁𝗲 𝗯𝘆 @hasnainkk""",
+𝗛𝗲𝗹𝗹𝗼 𝗜 𝗮𝗺 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝗲𝗱𝗶𝘁𝗲𝗱 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀 ! 𝗜 𝗮𝗺 𝗖𝗿𝗲𝗮𝘁𝗲 𝗯𝘆 @Xeno_Kakarot""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
