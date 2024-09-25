@@ -18,29 +18,29 @@ buttons = [
     [
         InlineKeyboardButton(
             text="𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽",
-            url=f"https://t.me/EditGuardian_Bot?startgroup=true",
+            url=f"https://t.me/Protectionforcopyrightxrobot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/Raiden_Support"),
-        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/hasnainkk-07/Edit-Guardian"),
+        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/lolpagalokigc"),
+        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://t.me/Planetsadala/20?single"),
     ],    
     [
-        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/hasnainkk"),
+        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Xeno_Kakarot"),
     ],
     
 ]
 
 IMG = [
-"https://telegra.ph/file/73c9aa7b5e1a2e053d915.jpg",
-"https://telegra.ph/file/6cf4d7a5d07cdbc5c4c4f.jpg",
-"https://telegra.ph/file/3938993e7f83b9201d961.jpg",
-"https://telegra.ph/file/867bd553810ac3a4cf09f.jpg",
-"https://telegra.ph/file/d102719ef028b224e0842.jpg",
-"https://telegra.ph/file/63dbc9108dca4a91121af.jpg",
-"https://telegra.ph/file/5225ee47a9cbb9a0e85b1.jpg",
-"https://telegra.ph/file/ee9751a286fd983f08086.jpg",
-"https://telegra.ph/file/fbfa4262e467652e75d83.jpg",
-"https://telegra.ph/file/865ce3676d535ec83dce9.jpg",
+"https://envs.sh/qN8.jpg",
+"https://envs.sh/qNk.jpg",
+"https://envs.sh/qN8.jpg",
+"https://envs.sh/qN1.jpg",
+"https://envs.sh/qNa.jpg",
+"https://envs.sh/St6.jpg",
+"https://envs.sh/qNU.jpg",
+"https://envs.sh/qN4.jpg",
+"https://envs.sh/qNl.jpg",
+"https://envs.sh/qNk.jpg",
 ]
-PM_START_IMG = "https://te.legra.ph/file/821cfbf567b7227b26fab.jpg"
+PM_START_IMG = "https://envs.sh/St-.jpg"
