@@ -9,9 +9,9 @@ updates:
       include: "scope"
     open-pull-requests-limit: 5
     assignees:
-      - "hasnainkk-07"
+      - "Xeno_Kakarot-07"
     reviewers:
-      - "hasnainkk-07"
+      - "Xeno_Kakarot-07"
     labels:
       - "dependencies"
       - "automated-update"
@@ -24,9 +24,9 @@ updates:
       include: "scope"
     open-pull-requests-limit: 5
     assignees:
-      - "hasnainkk-07"
+      - "Xeno_Kakarot-07"
     reviewers:
-      - "hasnainkk-07"
+      - "Xeno_Kakarot-07"
     labels:
       - "actions"
       - "automated-update"
