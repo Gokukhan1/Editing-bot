@@ -4,7 +4,7 @@
 
 
 # Telegram bot token
-TELEGRAM_TOKEN = "6947974407:AAF2D9SXcSY5GjGg7wpSrF9Eotlu1rAQPRc"
+TELEGRAM_TOKEN = "6947974407:AAG_pmmmS4oSqSsW_mU0aZn_dlKQfRbuD24"
 
 # Your telegram user ID (owner)
 OWNER_ID = 7078181502
