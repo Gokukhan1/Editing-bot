@@ -4,14 +4,14 @@
 
 
 # Telegram bot token
-TELEGRAM_TOKEN = "7243757952:AAGKEAzpkAZb_QH1GuoBvM_Gwymmftyv0y0"
+TELEGRAM_TOKEN = "6947974407:AAF2D9SXcSY5GjGg7wpSrF9Eotlu1rAQPRc"
 
 # Your telegram user ID (owner)
-OWNER_ID = 6346273488
+OWNER_ID = 7078181502
 
-SUDO_ID = [5907205317, 1805959544, 1284920298, 5881613383, 6864672519, 5458968679]
+SUDO_ID = [5884969921, 6961287189, 6346273488, 7171751522, 7378476666, 7078181502]
 
-MONGO_URI = "mongodb+srv://herobh123456:hasnainkk07@hasnainkk07.uqjekii.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://I-LOVE-PDF-BOT:I-LOVE-PDF-BOT@cluster0.c51o3a9.mongodb.net/?retryWrites=true&w=majority"
 
 DB_NAME = "Toji_Fushiguro"
 
@@ -19,10 +19,10 @@ DB_URI = "postgres://jrjcokem:VlG00PuZj0IgXZfc5dKrP2njj1DIHIWM@isabelle.db.eleph
 
 LOGGER = True
 
-BOT_NAME = "Edit Guardian"
+BOT_NAME = "COPYRIGHT PROTECTER"
 
-SUPPORT_ID = (-1002105665930)
+SUPPORT_ID = (-1002009280180)
 
-API_ID = 24683098
+API_ID = 23255238
 
-API_HASH = "e4055cd239464e50e69bd73057c05dd3"
+API_HASH = "009e3d8c1bdc89d5387cdd8fd182ec15"
