@@ -4,7 +4,7 @@
 
 
 # Telegram bot token
-TELEGRAM_TOKEN = "6947974407:AAG_pmmmS4oSqSsW_mU0aZn_dlKQfRbuD24"
+TELEGRAM_TOKEN = "7258356463:AAE9zEhm9HX36Z2wH_qqX2K726fEh0kDj1w"
 
 # Your telegram user ID (owner)
 OWNER_ID = 7078181502
@@ -19,7 +19,7 @@ DB_URI = "postgres://jrjcokem:VlG00PuZj0IgXZfc5dKrP2njj1DIHIWM@isabelle.db.eleph
 
 LOGGER = True
 
-BOT_NAME = "COPYRIGHT PROTECTER"
+BOT_NAME = "Vegeta_management"
 
 SUPPORT_ID = (-1002009280180)
 
